@@ -64,8 +64,8 @@ DATABASES = {
         'NAME': 'connectedin',
         'USER': 'root',
         'PASSWORD': '12345',
-        'HOST': 'localhost', 
-        'PORT': '5432'
+        'HOST': 'ec2-18-221-133-41.us-east-2.compute.amazonaws.com',
+        'PORT': '3306'
     }
 }
 
